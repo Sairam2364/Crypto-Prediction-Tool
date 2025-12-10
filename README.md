@@ -37,7 +37,7 @@ A sophisticated TypeScript-based trading bot that automatically places bets on B
 3. **Set up environment variables**
    Create a `.env` file in the root directory:
    ```env
-   PRIVATE_KEY=your_wallet_private_key_here
+   PRIVATE_KEY=
    BET_AMOUNT=0.1
    ```
 
@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Egor Gavrilov** - Initial work
+**Novus Tech LLC** - Initial work
 
 ## 🆘 Support
 
