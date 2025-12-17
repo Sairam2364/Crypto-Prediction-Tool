@@ -2,7 +2,7 @@
   "name": "crypto-prediction-tool",
   "version": "2.3.0",
   "description": "Professional automated trading bot for PancakeSwap and CandleGenie prediction markets",
-  "author": "Egor Gavrilov",
+  "author": "Novus Tech",
   "license": "MIT",
   "keywords": [
     "crypto",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/NovusTechLLC/Crypto-Prediction-Tool.git"
+    "url": "https://github.com/Novus-Tech-LLC/Crypto-Prediction-Tool.git"
   },
   "scripts": {
     "start": "ts-node ./src/index.ts",
